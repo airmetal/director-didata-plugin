@@ -1,0 +1,14 @@
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/sql/GoogleCloudSQLProviderTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/util/NamesTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/util/UrlsTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/GoogleLauncherTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/compute/GoogleComputeProviderFullCycleTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/GoogleCloudProviderTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/sql/GoogleCloudSQLInstanceTemplateConfigurationValidatorTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/TestUtils.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/compute/GoogleComputeInstanceTemplateConfigurationValidatorTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/compute/GoogleComputeProviderTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/TestFixture.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/sql/GoogleCloudSQLProviderConfigurationValidatorTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/compute/GoogleComputeProviderConfigurationValidatorTest.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/tests/src/test/java/com/cloudera/director/google/sql/GoogleCloudSQLProviderFullCycleTest.java

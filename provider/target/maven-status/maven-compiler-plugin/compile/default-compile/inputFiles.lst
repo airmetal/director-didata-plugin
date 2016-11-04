@@ -1,0 +1,16 @@
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeProvider.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/util/ComputeUrls.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/DimensionDataLauncher.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeInstance.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/Configurations.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/DimensionDataCredentialsProviderConfigurationProperty.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/DimensionDataCredentialsProvider.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeInstanceTemplateConfigurationValidator.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/DimensionDataCloudProvider.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/util/Dates.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeProviderConfigurationProperty.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/internal/DimensionDataCredentials.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeProviderConfigurationValidator.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeInstanceTemplateConfigurationProperty.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/compute/DimensionDataComputeInstanceTemplate.java
+/Users/andrewdas/Documents/Workspace/DimensionData/director-didata-plugin/provider/src/main/java/com/cloudera/director/dimensiondata/util/Names.java
